@@ -1,0 +1,26 @@
+Chers auditeurs,
+
+Nous verrons ici, comme prévu, des sites essentiels à consulter et des contacts précieux à avoir en cas d'attaque informatique.
+
+Avant cela, il est tout d'abord, important de se prémunir de ces attaques par plusieurs moyens : 
+- En mettant en place des pare-feu soit par installation de logiciels soit par configuration (proposée par le système d'exploitation), 
+- En se connectant dans des réseaux privés et non publics, 
+- En naviguant uniquement dans des sites sûrs/sécurisés,
+- De ne pas donner nos informations personnelles/sensibles
+- Si l'utilisateur se connecte souvent dans des sites, il doit opter pour des mots de passe longs et les stocker dans un gestionnaire de MDP.
+- Il doit aussi le protéger car si un malveillant obtient l'accès de celui-ci (en exemple : par ingénierie sociale), il aura accès à tous les identifiants
+
+On peut aussi rester en garde en se rendant dans des sites légitimes et experts pour se sensibiliser à ce sujet important. 
+Parmi eux, nous avons : 
+- L'ANSSI (Agence Nationale de la Sécurité des Systèmes d'Informations, existant depuis 2009 : https://cyber.gouv.fr/ ) servant à accompagner des utilisateurs, faire de la sensibilisation, 
+proposer des formations courtes (avec attestation) ou longues (sous conditions), consulter les utilisateurs dans un service plus approfondi
+
+- Le CNIL (Commission Nationale de l'Informatique et des Libertés, mis en place le 6/01/1978 : https://cnil.fr/fr ), il a des rôles similaires à l'ANSSI sauf qu'en plus de cela, 
+il peut sanctionner des organismes, entreprises en situation de non-respect des règles de traitement de données personnelles. Les sanctions de la CNIL peuvent être de différentes catégories :
+Lancer des avertissements en cas de non-respect des règles, une incitation et/ou un rappel de remise en conformité face aux règles puis les alourdir en passant à des amendes conséquentes
+
+- Cybermalveillance.gouv.fr, plateforme d'assistance pour les utilisateurs victimes de malveillances informatiques, proposant des services d'aide en coopération avec la Police et Gendarmerie nationale. Le principe est qu'en cas de cybermalveillance, nous nous rendons sur l'outil gratuit de diagnostic 17cyber.gouv.fr pour débuter le diagnostic de notre système d'information.
+Obtenir les solutions pour remédier aux problèmes/incidents présents de même qu'une assistance technique analysant plus en détail le problème.
+
+Bien entendu, il peut exister potentiellement d'autres ressources ou moyens de documentation à ce sujet qui nous sont encore méconnus mais au fur et à mesure de nos recherches,
+nous trouvons toujours de nouvelles informations.
